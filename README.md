@@ -1,4 +1,4 @@
-# Google Cloud Functions for calling SendGrid with Secret Manager
+# Using Secret Manager and Cloud Functions for calling SendGrid
 
 ## Introduction
 
