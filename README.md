@@ -1,4 +1,4 @@
-# Using Secret Manager and Cloud Functions for calling SendGrid
+# Using Secret Manager and Cloud Functions to call SendGrid
 
 ## Introduction
 
